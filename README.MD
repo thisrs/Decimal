@@ -1,2 +1,2 @@
 # Decimal
-Own implementation decimal C library.
+Own implementation decimal C library. BITWISE
